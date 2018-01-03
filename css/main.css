@@ -1,0 +1,192 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.row:before, .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+[class*="col-"] {
+  float: left;
+  min-height: 70px;
+  padding: 12px;
+  margin: 0px;
+}
+
+.col-1-first {
+  width: 8.3333%;
+}
+
+.col-2-first {
+  width: 8.3333%;
+}
+
+.col-3-first {
+  width: 8.3333%;
+}
+
+.col-4-first {
+  width: 8.3333%;
+}
+.col-5-first {
+  width: 8.3333%;
+}
+.col-6-first {
+  width: 8.3333%;
+}
+.col-7-first {
+  width: 8.3333%;
+}
+.col-8-first {
+  width: 8.3333%;
+}
+.col-9-first {
+  width: 8.3333%;
+}
+.col-10-first {
+  width: 8.3333%;
+}
+.col-11-first {
+  width: 8.3333%;
+}
+.col-12-first {
+  width: 8.3333%;
+}
+
+.col-1-second {
+  width: 16.6666%;
+}
+
+.col-2-second {
+  width: 16.6666%;
+}
+.col-3-second {
+  width: 16.6666%;
+}
+.col-4-second {
+  width: 16.6666%;
+}
+.col-5-second {
+  width: 16.6666%;
+}
+.col-6-second {
+  width: 16.6666%;
+}
+.col-1-third {
+  width: 25%;
+}
+.col-2-third {
+  width: 25%;
+}
+.col-3-third {
+  width: 25%;
+}
+.col-4-third {
+  width: 25%;
+}
+.col-1-fourth {
+  width: 33.3333%;
+}
+.col-2-fourth {
+  width: 33.3333%;
+}
+.col-3-fourth {
+  width: 33.3333%;
+}
+.col-1-fifth {
+  width: 50%;
+}
+.col-2-fifth {
+  width: 50%;
+}
+.col-1-sixth {
+  width: 100%;
+}
+.separacion {
+  height: 15px;
+}
+.first {
+  background-color: yellow;
+  border: red 1px solid;
+}
+
+.second {
+  background-color: green;
+  border: red 1px solid;
+}
+
+.third {
+  background-color: aqua;
+  border: red 1px solid;
+}
+
+.fourth {
+  background-color: blue;
+  border: red 1px solid;
+}
+
+.fifth {
+  background-color: purple;
+  border: red 1px solid;
+}
+
+.sixth {
+  background-color: blue;
+  border: red 1px solid;
+}
+
+/*segundo ejercicio*/
+
+.col-1-e2 {
+  background-color: yellow;
+  border: red 1px solid;
+  height: 100px;
+  width: 100%;
+}
+
+.col-2-e2 {
+  background-color: aqua;
+  border: red 1px solid;
+  height: 500px;
+  width: 75%;
+}
+
+.col-3-e2 {
+  background-color: purple;
+  border: red 1px solid;
+  height: 500px;
+  width: 25%;
+}
+
+
+
+@media only screen and (max-width: 800px) {
+  .col-1-e2 {
+
+
+    height: 100px;
+    width: 100%;
+
+  }
+
+  .col-2-e2 {
+    height: 400px;
+    width: 100%;
+  }
+
+  .col-3-e2 {
+
+    height: 100px;
+    width: 100%;
+  }
+}
