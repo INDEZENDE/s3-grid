@@ -31,7 +31,6 @@
   width: 16.6666%;
 }
 
-
 .col-3 {
   width: 25%;
 }
@@ -50,39 +49,39 @@
   height: 15px;
 }
 .first {
-  background-color: yellow;
+  background-color: #FFFF00;
   border: white 7px solid;
 }
 
 .second {
-  background-color: green;
+  background-color: #AFFF00;
   border: white 7px solid;
 }
 
 .third {
-  background-color: aqua;
+  background-color: #1EE2A6;
   border: white 7px solid;
 }
 
 .fourth {
-  background-color: blue;
+  background-color: #01B6AD;
   border: white 7px solid;
 }
 
 .fifth {
-  background-color: purple;
+  background-color: #9C42D1;
   border: white 7px solid;
 }
 
 .sixth {
-  background-color: blue;
+  background-color: #D126A9;
   border: white 7px solid;
 }
 
 /*segundo ejercicio*/
 
 .col-1-e2 {
-  background-color: yellow;
+  background-color: #F7EA00;
   border: white 7px solid;
   color: white;
   font-size: 72px;
@@ -92,7 +91,7 @@
 }
 
 .col-2-e2 {
-  background-color: aqua;
+  background-color: #34EAA9;
   border: white 7px solid;
   color: white;
   font-size: 72px;
@@ -102,7 +101,7 @@
 }
 
 .col-3-e2 {
-  background-color: purple;
+  background-color: #E486EA;
   border: white 7px solid;
   color: white;
   font-size: 72px;

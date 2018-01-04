@@ -41,18 +41,9 @@ display: inline-table;
   width: 100%;
 }
 
-.col-2-e3 {
-  background-color: #34EAA9;
-  border: white 7px solid;
-  color: white;
-  font-size: 72px;
-  height: 250px;
-  text-align: center;
-  width: 100%;
-}
 
 .col-3-e3 {
-  background-color: #36B6E8;
+  background-color: #5EC9EA;
   border: white 7px solid;
   color: white;
   font-size: 72px;
@@ -80,7 +71,38 @@ display: inline-table;
   text-align: center;
   width: 33.33%;
 }
+
 .col-6-e3 {
+  background-color: #ED5A5A;
+  border: white 7px solid;
+  color: white;
+  font-size: 72px;
+  height: 250px;
+  text-align: center;
+  width: 33.33%;
+}
+
+.col-7-e3 {
+  background-color: #41EFB9;
+  border: white 7px solid;
+  color: white;
+  font-size: 72px;
+  height: 250px;
+  text-align: center;
+  width: 33.33%;
+}
+
+.col-8-e3 {
+  background-color: #92E542;
+  border: white 7px solid;
+  color: white;
+  font-size: 72px;
+  height: 250px;
+  text-align: center;
+  width: 33.33%;
+}
+
+.col-9-e3 {
   background-color: #E486EA;
   border: white 7px solid;
   color: white;
@@ -106,10 +128,10 @@ display: inline-table;
   .col-2 {
     width: 100%;
   }
-  .col-2-e3 {
+  .col-9-e3 {
     height: 200px;
   }
-  .col-3-e3, .col-4-e3, .col-5-e3, .col-6-e3 {
-    height: 100px;
+  .col-3-e3, .col-4-e3, .col-5-e3, .col-6-e3, .col-7-e3, .col-8-e3   {
+    height: 200px;
   }
 }
