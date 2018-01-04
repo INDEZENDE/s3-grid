@@ -112,17 +112,10 @@
 }
 
 
-
-
-
-
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 768px) {
   .col-1-e2 {
-
-
     height: 100px;
     width: 100%;
-
   }
 
   .col-2-e2 {
@@ -131,7 +124,6 @@
   }
 
   .col-3-e2 {
-
     height: 100px;
     width: 100%;
   }
