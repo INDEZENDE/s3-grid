@@ -23,93 +23,27 @@
   margin: 0px;
 }
 
-.col-1-first {
+.col-1 {
   width: 8.3333%;
 }
 
-.col-2-first {
-  width: 8.3333%;
-}
-
-.col-3-first {
-  width: 8.3333%;
-}
-
-.col-4-first {
-  width: 8.3333%;
-}
-.col-5-first {
-  width: 8.3333%;
-}
-.col-6-first {
-  width: 8.3333%;
-}
-.col-7-first {
-  width: 8.3333%;
-}
-.col-8-first {
-  width: 8.3333%;
-}
-.col-9-first {
-  width: 8.3333%;
-}
-.col-10-first {
-  width: 8.3333%;
-}
-.col-11-first {
-  width: 8.3333%;
-}
-.col-12-first {
-  width: 8.3333%;
-}
-
-.col-1-second {
+.col-2 {
   width: 16.6666%;
 }
 
-.col-2-second {
-  width: 16.6666%;
-}
-.col-3-second {
-  width: 16.6666%;
-}
-.col-4-second {
-  width: 16.6666%;
-}
-.col-5-second {
-  width: 16.6666%;
-}
-.col-6-second {
-  width: 16.6666%;
-}
-.col-1-third {
+
+.col-3 {
   width: 25%;
 }
-.col-2-third {
-  width: 25%;
-}
-.col-3-third {
-  width: 25%;
-}
-.col-4-third {
-  width: 25%;
-}
-.col-1-fourth {
+
+.col-4 {
   width: 33.3333%;
 }
-.col-2-fourth {
-  width: 33.3333%;
-}
-.col-3-fourth {
-  width: 33.3333%;
-}
-.col-1-fifth {
+
+.col-6 {
   width: 50%;
 }
-.col-2-fifth {
-  width: 50%;
-}
-.col-1-sixth {
+.col-12 {
   width: 100%;
 }
 .separacion {
@@ -117,56 +51,68 @@
 }
 .first {
   background-color: yellow;
-  border: red 1px solid;
+  border: white 7px solid;
 }
 
 .second {
   background-color: green;
-  border: red 1px solid;
+  border: white 7px solid;
 }
 
 .third {
   background-color: aqua;
-  border: red 1px solid;
+  border: white 7px solid;
 }
 
 .fourth {
   background-color: blue;
-  border: red 1px solid;
+  border: white 7px solid;
 }
 
 .fifth {
   background-color: purple;
-  border: red 1px solid;
+  border: white 7px solid;
 }
 
 .sixth {
   background-color: blue;
-  border: red 1px solid;
+  border: white 7px solid;
 }
 
 /*segundo ejercicio*/
 
 .col-1-e2 {
   background-color: yellow;
-  border: red 1px solid;
+  border: white 7px solid;
+  color: white;
+  font-size: 72px;
   height: 100px;
+  text-align: center;
   width: 100%;
 }
 
 .col-2-e2 {
   background-color: aqua;
-  border: red 1px solid;
+  border: white 7px solid;
+  color: white;
+  font-size: 72px;
   height: 500px;
+  text-align: center;
   width: 75%;
 }
 
 .col-3-e2 {
   background-color: purple;
-  border: red 1px solid;
+  border: white 7px solid;
+  color: white;
+  font-size: 72px;
   height: 500px;
+  text-align: center;
   width: 25%;
 }
+
+
+
 
 
 
